@@ -1,0 +1,35 @@
+Blockchain Basics
+Definition of Blockchain
+
+A Blockchain is a decentralized, distributed digital ledger that records transactions in a secure and transparent manner. It consists of a network of computers, known as nodes, that work together to validate and record transactions on the Blockchain. Each node has a copy of the ledger, and any changes made to the ledger are verified and recorded across all nodes in the network. A Blockchain can store any type of information, not just financial transactions.
+How does it work?
+
+Here is a step-by-step explanation of how a Blockchain transaction works:
+
+Step 1: Initiation of a Transaction
+
+A transaction is initiated when one user wants to send digital assets or cryptocurrencies to another user. This transaction includes the details of the sender, the recipient, the amount, and any other relevant information.
+
+Step 2: Verification of the Transaction
+
+Once the transaction is initiated, it is broadcast to the nodes on the Blockchain network. Each node verifies the transaction by checking whether the sender has sufficient funds to complete the transaction and whether the transaction meets the necessary criteria.
+
+Step 3: Validation of the Transaction
+
+Once the transaction is verified, it is validated by the nodes on the network. This validation process involves solving a complex mathematical problem, known as proof of work, or proof of stake, depending on the Blockchain technology being used. This process ensures that the transaction is legitimate and that the sender has the authority to make the transfer.
+
+Step 4: Recording of the Transaction
+
+Once the transaction is validated, it is recorded on the Blockchain. The transaction is added to a block, which is then added to a chain of blocks in a chronological order, forming an unalterable and transparent record of all transactions on the Blockchain.
+
+Step 5: Confirmation of the Transaction
+
+After the transaction is recorded, it needs to be confirmed by the nodes on the Blockchain network. This confirmation process involves checking the authenticity and accuracy of the transaction details and ensuring that it complies with the rules and regulations of the Blockchain network.
+
+Step 6: Distribution of the Transaction
+
+Once the transaction is confirmed, it is distributed across the entire network of nodes, which adds it to their copy of the ledger. This ensures that all nodes have an up-to-date and accurate copy of the ledger.
+
+Step 7: Completion of the Transaction
+
+Finally, the transaction is completed, and the digital assets or cryptocurrencies are transferred from the sender to the recipient. This transaction is now recorded on the Blockchain, forming an immutable and transparent record that can be verified by anyone on the network.

@@ -1,0 +1,29 @@
+Key features and benefits
+
+    Decentralization: Blockchain is a decentralized technology, meaning it operates without a central authority. This eliminates the need for intermediaries and provides a transparent, peer-to-peer network for transactions. 
+
+Example: Bitcoin is a decentralized cryptocurrency that operates on the Blockchain network, allowing users to transfer funds directly without the need for a financial intermediary.
+
+    Increased Transparency: Blockchain provides a transparent and immutable record of all transactions, increasing trust between parties and reducing the risk of fraud. 
+
+Example: IBM is using Blockchain technology to increase transparency in the supply chain of food products, allowing consumers to view the origin and quality of their food.
+
+    Immutability: Once a transaction is recorded on the Blockchain, it cannot be altered or deleted. This ensures the integrity and security of the data stored on the Blockchain. 
+
+Example: The Ethereum Classic Blockchain famously resisted a hack attempt in 2016, resulting in the Blockchain remaining immutable and secure.
+
+    Security: Blockchain uses advanced cryptographic techniques to secure transactions and prevent unauthorized access. This makes it more secure than traditional methods of data storage and transfer. 
+
+Example: The Chinese city of Guangzhou is using Blockchain technology to prevent the spread of the coronavirus by securely storing and sharing patient data.
+
+    Reduced Transaction Costs: Blockchain eliminates the need for intermediaries, reducing transaction costs and enabling faster and more efficient transactions. 
+
+Example: The Blockchain-based payment platform RippleNet is reducing cross-border transaction costs for financial institutions.
+
+    Improved Efficiency: Blockchain streamlines processes, reducing the time and cost required to complete tasks. 
+
+Example: The logistics company Maersk is using Blockchain to streamline its supply chain process, reducing the time and cost required to transport goods.
+
+    Increased Trust: Blockchain technology has the potential to increase trust between parties by providing a tamper-proof and transparent record of transactions. 
+
+Example: Walmart is using Blockchain to increase trust between suppliers and consumers by providing transparency into the origin and quality of its products.
